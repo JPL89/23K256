@@ -1,4 +1,4 @@
-# 23K256
+# 23K256 - ATMEGA32
 
 	nokia5110.Init();
 
